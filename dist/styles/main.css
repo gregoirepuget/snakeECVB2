@@ -38,3 +38,10 @@ body {
 .diamond_difficulty_5 {
     background: red
 }
+
+.head {
+    background: maroon;
+    width: 10px;
+    height: 10px;
+    position:absolute;
+}
