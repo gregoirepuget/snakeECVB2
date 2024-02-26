@@ -4,7 +4,9 @@ const diamonds = []
 gameInit()
 
 function gameInit() {
-    createDiamond()
+    for (let i = 0; i < 5; i++) {
+        createDiamond()
+    }
     createHead()
 }
 
